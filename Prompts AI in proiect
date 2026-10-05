@@ -1,22 +1,26 @@
 Am utilizat Inteligenta artificiala, prompturile utilizate:
+LAB 01:
+
 1. Scrie-mi pls elaborat pasii de create a lab: ( introdus cerintele) - mi-a dat un rezumat detaiat la fiecare pas penrtru crearea proiectului.
-
 2. Cum clonez repozitoriul? - mi-a explicat cum c+p linkul pe VS.
-
 3. De ce arata error la clonare in Visual studio? - a spus sa ii spun exact ce error
-
 4. Erroare tip invalid argument - nu era correct scris numele fisierului pe VS.
-
 5. La crearea branch scrie fatal head is not a commit and a branch lab01 cannot be create from it, cum rezolv? - mi-a explicat ca nu am creat primul commit inca pentru a putea crea ramura  lab01.
-
 6. readme il scriu tot unde fisierele .hpp? - mi-a spus da si mi-a explicat pe scurt ce ssa scriu acolo, m-a ajutat cu formularea.
-
 7. Cum il trimit pe moodle? - mi-a explicat pas cu pas cum save pe GitHub si copy link pe moodle.
-
 8. Ce trebuie sa scriu in terminal? - mi-a scris si explicat fiecare comanda executata in terminal la final de program
-
 9. error: failed to push some refs to ..., de ce? - nu era sincronizata modificarea pe lab01.
-
 10. Imi scrie choose different branches or forks above ( pe github la pull request) - problema ca exista doar o ramura pe GitHub.
-
 11. explica-mi detaliat codul ca sa inteleg ce e folosit si cum, pe scurt si clar. - explicarea in detalii la feicare fisier .hpp
+
+LAB02:
+
+1. La proiect in github, cum adaug ramura la repozitoriu existent? - mi-a explicat ce scriu in terminal
+2. Terminalul in Vs code? - a confirmat
+3. Pot face remura nous dupa ce termin sarcina? - a confirmat
+4. ok, ce e asta si cum se face? ( am alipit conditiile de pe moodle) - mi-a explkcat fiecare punct din sarcina
+5. explica mai detaliat - a extins explicatia.
+6. ( am alipit ss cu cod gresit din lab01 ) de ce ecu rosu? - mi-a explicat ca am scris gresit denumirile gregit in fisiere, am editat fisierele cu numele corecte.
+7. Efectueaza si explica cerintele din lab02 in raport cu lab01. - mi-a scris codul cu comentarii si mi-a spus succint ce face fiacre fisier.
+8. dar daca editez codul existent, nu se va schimba si fisierele in ramura lab01? - a spus ca nu daca am lucrat pe lab02.
+9. dupa ce am creat fisierele cum salvez in branch lab02? - mi-a dat comezile pentru terminal.
