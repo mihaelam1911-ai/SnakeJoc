@@ -1,0 +1,10 @@
+all: SnakeGame
+
+SnakeGame: point.o directii.o mar.o placa.o snake.o painter.o listener.o gameEngine.o main.o
+	g++ -o Snake.exe point.o directii.o mar.o placa.o snake.o painter.o listener.o gameEngine.o main.o
+
+%.o: %.cpp $(wildcard *.hpp)
+	g++ $< -o $@ -c
+
+clean:
+	rm -f *.o *.exe
