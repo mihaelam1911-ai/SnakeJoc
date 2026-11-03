@@ -1,7 +1,7 @@
 #pragma once
 
-#include "apple.hpp"
-#include "direction.hpp"
+#include "mar.hpp"
+#include "directii.hpp"
 #include "point.hpp"
 
 class Snake {
@@ -13,5 +13,5 @@ public:
    void Move(Direction direction);
    int GetSize() const;
    Point GetPosition() const;
-   void Eat(const Apple& apple);
+   void Eat(const Mar& mar);
 };

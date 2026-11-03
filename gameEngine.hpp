@@ -1,13 +1,13 @@
 #pragma once
 
-#include "apple.hpp"
+#include "mar.hpp"
 #include "snake.hpp"
-#include "board.hpp"
+#include "placa.hpp"
 
 class GameEngine {
-   Apple _apple;
+   Mar _mar;
    Snake _snake;
-   Board _board;
+   Placa _placa;
 public:
    GameEngine();
    void Init();

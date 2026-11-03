@@ -2,10 +2,10 @@
 
 #include "point.hpp"
 
-class Apple {
+class Mar {
    Point _position;
 public:
-   Apple();
-   Apple(const Point& position);
+   Mar();
+   Mar(const Point& position);
    Point GetPosition() const;
 };

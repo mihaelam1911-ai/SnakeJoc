@@ -1,10 +1,10 @@
 #pragma once
 
-class Board {
+class Placa {
    int _width;
    int _height;
 public:
-   Board(int width = 20, int height = 20);
+   Placa(int width = 20, int height = 20);
    int GetWidth() const;
    int GetHeight() const;
 };
