@@ -1,0 +1,22 @@
+Am utilizat Inteligenta artificiala, prompturile utilizate:
+1. Scrie-mi pls elaborat pasii de create a lab: ( introdus cerintele) - mi-a dat un rezumat detaiat la fiecare pas penrtru crearea proiectului.
+
+2. Cum clonez repozitoriul? - mi-a explicat cum c+p linkul pe VS.
+
+3. De ce arata error la clonare in Visual studio? - a spus sa ii spun exact ce error
+
+4. Erroare tip invalid argument - nu era correct scris numele fisierului pe VS.
+
+5. La crearea branch scrie fatal head is not a commit and a branch lab01 cannot be create from it, cum rezolv? - mi-a explicat ca nu am creat primul commit inca pentru a putea crea ramura  lab01.
+
+6. readme il scriu tot unde fisierele .hpp? - mi-a spus da si mi-a explicat pe scurt ce ssa scriu acolo, m-a ajutat cu formularea.
+
+7. Cum il trimit pe moodle? - mi-a explicat pas cu pas cum save pe GitHub si copy link pe moodle.
+
+8. Ce trebuie sa scriu in terminal? - mi-a scris si explicat fiecare comanda executata in terminal la final de program
+
+9. error: failed to push some refs to ..., de ce? - nu era sincronizata modificarea pe lab01.
+
+10. Imi scrie choose different branches or forks above ( pe github la pull request) - problema ca exista doar o ramura pe GitHub.
+
+11. explica-mi detaliat codul ca sa inteleg ce e folosit si cum, pe scurt si clar. - explicarea in detalii la feicare fisier .hpp
